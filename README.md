@@ -5,6 +5,7 @@ This repository contains the Tinder+ Product Manager case project focused on red
 **Files in this repository**
 
 NL_Tinder+.pdf – Final slide deck with problem analysis and proposed solutions
+
 problem_and_user_research.docx – Document covering problem statement, research plan, survey summary, and interview insights
 
 **Project overview**
